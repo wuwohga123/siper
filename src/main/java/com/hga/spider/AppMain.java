@@ -18,7 +18,7 @@ public class AppMain {
     public static void main(String[] args) throws Exception {
 
     	/*
-    	 * 爬虫配置1
+    	 * 爬虫配置123
     	 */
         CrawlConfig config = new CrawlConfig(); 
         config.setCrawlStorageFolder("F:/data"); // 设置爬虫文件存储位置
